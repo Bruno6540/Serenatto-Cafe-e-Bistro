@@ -24,15 +24,7 @@ Além disso, o site conta com um recurso especial: **modo noturno (dark mode)** 
 ---
 
 ## 📷 Prévia
-![Demonstração do modo Noturno](./assets/Animação.gif)
-
----
-
-## 🔮 Melhorias futuras
-- Adicionar carrinho de compras fictício.  
-- Criar página de cardápio completa.  
-- Animações suaves na transição de temas.  
-- Integração com banco de dados para simular pedidos online.  
+![Demonstração do modo Noturno](./assets/Animação.gif) 
 
 ---
 
